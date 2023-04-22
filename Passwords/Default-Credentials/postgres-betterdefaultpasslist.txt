@@ -6,3 +6,4 @@ postgres:admin
 admin:admin
 admin:password
 postgres:123
+postgres:postgres
